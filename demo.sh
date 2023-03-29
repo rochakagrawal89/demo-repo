@@ -1,2 +1,2 @@
-echo "This is $env environment"
+echo "$env environment"
 
