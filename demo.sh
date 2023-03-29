@@ -1,2 +1,2 @@
-echo "completely new file"
+echo "This is $env environment"
 
